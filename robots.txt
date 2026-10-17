@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parmanandks.github.io/DurgaMandirSijauliya/sitemap.xml
